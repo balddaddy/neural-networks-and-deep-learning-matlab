@@ -9,4 +9,4 @@ This is a Matlab version of the Deep Learning program in the book Neural Network
 This program is tesed on *Ubuntu* with **Matlab R2022b(64-bit)**.
 
 Copyright @ Charley Chang 2023.11.15
-Mainland, PRC.f
+Mainland, PRC.
